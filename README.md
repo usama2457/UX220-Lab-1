@@ -1,2 +1,5 @@
-# UX220-Lab-1
-## Edit this, according to the instructions in the lab, using markdown.
+# The favourite thing I wrote
+
+Hi. My name is Usama Ali. The favourite thing I wrote was a story for my english class in grade 10. it was my favourite because I got to explore my creativity and storytelling abilities. It was a very fun experience.
+
+My teacher really loved my story and told me I should try writing more and develop my skil. After that I wrote many short stories but that one moment was my favourite.
